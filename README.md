@@ -1,2 +1,2 @@
 # FaceRecognition
-this code is a impelemantion of https://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
+this code is an impelemantion of https://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf
